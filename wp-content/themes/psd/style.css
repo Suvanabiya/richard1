@@ -1,0 +1,36 @@
+img{
+	width:100%;
+}
+img{
+	border-top:10px;
+}
+h1,h2,h3 {
+	text-align:center;
+}
+.col-md-3{
+	margin-top:150px;
+}
+.col-md-4 {
+	margin-top:150px;
+}
+.icon img {
+	height:50px;
+	width:50px;
+}
+.foot img{
+	height:500px;
+}
+.facebook-messanger-twtter-whatup img{
+	float:left;
+}
+h1,h2 {
+	font-family :'Bernard MT';
+}
+h3,h4 {
+	font-family :'bookman old style';
+}
+h5,h6 {
+	font-family :'Edwardian Script ITC';
+}
+
+
